@@ -15,3 +15,24 @@ em strong {
 #missao {
     font-size: 20px;
 }
+ #misao{
+    style="fonte-size: 20px;"
+ }
+ #banner{
+    width:100%;
+ }
+.beneficios{
+    background:#208eb9
+}
+.imagembenebeneficios{
+    width:50%
+}
+H2{
+    text-alingn:center;
+}
+.itens{
+    font-sttyle: center;
+}
+li{
+    border:3px  solid #black;
+}
