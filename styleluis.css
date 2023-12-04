@@ -1,38 +1,52 @@
 body {
-    background: #914f88;}
-h1 {
-    text-align: center;
-    border: 10px solid black;
-    padding: 20px;
+   
 }
+
+#banner {
+    width:100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
 p {
     text-align: center;
-    background: #cccccc;
 }
-em strong {
-    color:#de2d2d;
-}
+
 #missao {
-    font-size: 20px;dknckjdbjb x bnk nc nmnx n,d m,nm  m mzc ds knsd jnd cbhj dsbcbuiwbwiebdihuegfdiuewgiywfuewiyhfeywhbcyhibewdyhicvhibhidbcbjdbhjcsbhdsbhc hdshc ewjdbiujebcjbdKSBC KWEDBKJDBCUJWEBDOUCIHWEUBCUEDWUIVCUEWDCUWEUBCHIDVSHC EWFHEWHIFVWEUCVEWVCFDUEWBCFBWEUIVCFI´DSVCXBUIDJSXSSSSSSFIOFEOWICFSD
+    font-size: 20px
 }
- #misao{
-    style="fonte-size: 20px;"
- }
- #banner{
-    width:100%;
- }
-.beneficios{
-    background:#208eb9
+
+em strong {
+    color: #FF0000;
 }
-.imagembenebeneficios{
-    width:50%
+
+.itens {
+    font-style: italic
 }
-H2{
-    text-alingn:center;
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
 }
-.itens{
-    font-sttyle: center;
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
-li{
-    border:3px  solid #black;
+
+.imagembeneficios {
+    width: 50%;
 }
